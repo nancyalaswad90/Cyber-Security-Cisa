@@ -83,5 +83,6 @@ explain video ...  https://youtu.be/F6jvnsKW1Hs
 - [lecture](https://youtu.be/Jk79QJCxPkM)
 
 - 
-- 
+
+> ## [ Bertelsmann and the Next Generation Tech Booster Sponsorship](https://docs.google.com/presentation/d/1bzpPZWp111wwkFyOrPWcz5_21HBDTDjYW55oSRkuQc0/edit#slide=id.g26b287c9965_0_0)
 
