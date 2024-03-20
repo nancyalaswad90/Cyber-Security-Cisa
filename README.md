@@ -73,6 +73,21 @@ https://youtu.be/WiYuS9ft78I
 
 
 .
+> ## CISA
+
+- [CISA - CHAPTER 1 - Lecture No.1 - Ahmed Samir.pdf](https://github.com/nancyalaswad90/Cyber-Security-Cisa/files/14661275/CISA.-.CHAPTER.1.-.Lecture.No.1.-.Ahmed.Samir.pdf)
+
+
+- [cisa new ... 24.pdf](https://github.com/nancyalaswad90/Cyber-Security-Cisa/files/14661273/cisa.new.24.pdf)
+
+
+-  [CISA MCQ DUMP.PDF](https://github.com/nancyalaswad90/Cyber-Security-Cisa/files/14661272/CISA.MCQ.DUMP.PDF)
+
+
+
+.
+
+
 
 ## CC... https://www.isc2.org/certified-in-cybersecurity?filter=featured&searchRoot=A82B5ABE5FF04271998AE8A4B5D7DEFD#
 explain video ...  https://youtu.be/F6jvnsKW1Hs
