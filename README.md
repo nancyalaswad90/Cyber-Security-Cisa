@@ -9,6 +9,7 @@
 - [ Prepair for دورة معتمد الأمن السيبراني كاملة](https://www.youtube.com/watch?v=WiYuS9ft78I)
 
 
+
 .[EnterpriseSecurity_-_Bertelsmann_notes.pdf](https://github.com/nancyalaswad90/Cyber-Security/files/14384128/EnterpriseSecurity_-_Bertelsmann_notes.pdf)
 
 
